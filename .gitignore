@@ -15,4 +15,4 @@
 /log/*.log
 /tmp
 
-secret_token.rb
+#secret_token.rb
